@@ -1,0 +1,58 @@
+
+@font-face {
+  font-family: 'Helveticaneuecyr-bold';                                  
+  src:url('helveticaneuecyr-bold.otf') ;   
+  font-display: swap;  
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'FuturaPTCond-Medium';                                  
+  src:url('FuturaPTCond-Medium.ttf') ;  
+  font-display: swap;   
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FuturaPT-Heavy';                                  
+  src:url('FuturaPT-Heavy.ttf') ;
+  font-display: swap;     
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'FuturaPT-Medium';                                  
+  src:url('FuturaPT-Medium.woff') ;  
+  font-display: swap;   
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ProximaNova-Regular';                                  
+  src:url('ProximaNova-Regular.ttf') ; 
+  font-display: swap;    
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ProximaNova-Semibold';                                  
+  src:url('ProximaNova-Semibold.ttf') ; 
+  font-display: swap;    
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'DIN Condensed';                                  
+  src:url('DIN Condensed.otf') ;    
+  font-display: swap; 
+  font-weight: normal;
+  font-style: normal;
+}
+
+
